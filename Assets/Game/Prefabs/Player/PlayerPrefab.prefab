@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &119166024673077808
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1605834797205667089, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_Name
+      value: PlayerPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -94.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951623418645085868, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.data[1].type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.data[2].type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.data[3].type
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.data[0].texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 21628736160fcc9488493401da3ef621, type: 3}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.data[1].texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 8859fce41c5d0a148ad0b7eebfca7fe9, type: 3}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.data[2].texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 2d18e23e3ce249b4489b8bcdd02d3f48, type: 3}
+    - target: {fileID: 6911761014242822290, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: cursorMappings.Array.data[3].texture
+      value: 
+      objectReference: {fileID: 2800000, guid: f8c873f1e53e83f4aabf342d6be1dfc3, type: 3}
+    - target: {fileID: 7221396222693098885, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: levelUpVFX
+      value: 
+      objectReference: {fileID: 3077098980593725404, guid: 39dffff5a33e44cb39a31f8c03ed2648, type: 3}
+    - target: {fileID: 7221396222693098885, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
+      propertyPath: shouldUseModifiers
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4ed18500bcf52456eb7adbfa9417fdcf, type: 3}
